@@ -1,0 +1,2 @@
+# Editor-Automatico
+uso pessoal
